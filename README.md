@@ -10,7 +10,7 @@ When a user enters a hashtag in the search box(e.g. fridayfeeling) and clicks th
 (2) It detects the sentiment of the tweets and shows the distribution of collected tweets across weekdays is split based on various sentiments.
 </p>
 <p align = "center">
-	<img width = 500 src = "https://github.com/rojinnew/tweet_analyzer/blob/master/hashtag.png">
+	<img src = "https://github.com/rojinnew/tweet_analyzer/blob/master/hashtag.png">
 </p>
 ####Searching a User 
 <p align = "justify">
