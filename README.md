@@ -12,7 +12,7 @@ When a user enters a hashtag in the search box (e.g. fridayfeeling) and clicks t
 (1) A piechart diagram that shows the distribution of collected tweets across weekdays. 
 </p> 
 <p align = "justify">
-(2) It detects the sentiment of the tweets and shows the distribution of collected tweets across weekdays is split based on various sentiments.
+(2) It detects the sentiment of the tweets and shows the distribution of collected tweets across weekdays is split based on various sentiments &#128512; &#128528; &#128545;
 </p>
 <p align = "center">
 	<img src = "https://github.com/rojinnew/tweet_analyzer/blob/master/hashtag.png">
