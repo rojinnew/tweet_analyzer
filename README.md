@@ -31,7 +31,7 @@ When a user enters a hashtag in the search box (e.g. @username) and clicks the s
  
 #### Running 
  
-Create your account for a Twitter API and enter your credential in the credential.py file. Next, Install the required libraries listed in requirements.txt and start up the server in that src directory using the following command: 
+Create your account for a Twitter API and enter your credential in the credential.py file. Next, install the required libraries listed in requirements.txt and start up the server in that src directory using the following command: 
  
 python app.py 
  
