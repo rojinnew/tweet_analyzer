@@ -59,6 +59,7 @@ def get_data():
         elif keyword[0] == "#":
             keyword = "#fridayfeeling"
         render_template("home.html")
+        request_results(keyword)
         return g_bar(keyword)
 
 if __name__ == '__main__':
