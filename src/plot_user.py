@@ -34,7 +34,8 @@ def plot_user_piechart(input):
 def plot_trend(input):
     """
     generates scatter plots
-    inspired by: https://medium.com/dev-genius/twitter-api-data-visualizations-with-pandas-and-plotly-1e9d0c00ab26
+    This function inspired by: 
+    https://medium.com/dev-genius/twitter-api-data-visualizations-with-pandas-and-plotly-1e9d0c00ab26
     """
     data_frame = pd.read_csv("csv_files/" + input + "_processed.csv")
     data_frame = data_frame.drop_duplicates(subset='tweet_date', keep="last")
