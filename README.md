@@ -2,9 +2,11 @@
 <p align = "justify">
 In this project,  Flask framework is used to deploy Twitter API, machine learning, and visualization libraries. A user enters a hashtag or a user and the application return relevant analysis.   
 </p>
-#### Searching a Hashtag:
+
+#### Searching a Hashtag
+
 <p align = "justify">
-When a user enters a hashtag in the search box(e.g. fridayfeeling) and clicks the search icon, the app fetches the most recent tweets, in this case, last 50000 tweets, and creates:
+When a user enters a hashtag in the search box (e.g. fridayfeeling) and clicks the search icon, the app fetches the most recent tweets, in this case, last 50000 tweets, and creates:
 (1) A piechart diagram that shows the distribution of collected tweets across weekdays. 
  
 (2) It detects the sentiment of the tweets and shows the distribution of collected tweets across weekdays is split based on various sentiments.
@@ -12,7 +14,9 @@ When a user enters a hashtag in the search box(e.g. fridayfeeling) and clicks th
 <p align = "center">
 	<img src = "https://github.com/rojinnew/tweet_analyzer/blob/master/hashtag.png">
 </p>
+
 #### Searching a User 
+
 <p align = "justify">
 When a user enters a hashtag in the search box (e.g. @username) and clicks the search icon, the app fetches the most recent tweets, in this case, last 90 tweets, and creates:
 (1) A piechart diagram that shows the distribution of collected tweets across weekdays. 
